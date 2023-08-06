@@ -1,3 +1,6 @@
+Project Demo:
+https://www.youtube.com/watch?v=D9KjnQb1YPk
+
 Contents:
 
 > sample-img folder - containing sample images to build the collection of user faces
